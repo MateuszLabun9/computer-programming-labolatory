@@ -1,1 +1,3 @@
-# 1ffd9f4d-gr12-repo
+# Computer programming in C++ 
+
+This repo contains code created during labolatories while I was studying. 
